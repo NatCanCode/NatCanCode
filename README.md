@@ -1,6 +1,6 @@
 #### 👋 Hi, I’m @NatCanCode
 #### 👀 I’m interested in MedTech, UX/UI and Mobile First
-#### 👩‍💻 Currently working as an iOS Developer at Epoca with the Advanced Apple Foundation Program
+#### 👩‍💻 Currently working as an iOS Developer at Epoca Health with the Advanced Apple Foundation Program
 #### 📫 You can reach me on [LinkedIn]
 
 [LinkedIn]: https://www.linkedin.com/in/nathaliepiat/?locale=en_US
