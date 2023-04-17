@@ -1,5 +1,5 @@
 #### 👋 Hi, I’m @NatCanCode
-#### 👀 I’m interested in MedTech, UX/UI and Mobile First
+#### 👀 I’m interested in MedTech, iOS Development, UX/UI and Mobile First
 #### 👩‍💻 Currently working as an iOS Developer at Epoca Health with the Advanced Apple Foundation Program
 #### 📫 You can reach me on [LinkedIn]
 
